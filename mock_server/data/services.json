@@ -1,0 +1,54 @@
+[
+  {
+    "service_name": "payment-platform",
+    "description": "Core payment processing and transaction management system",
+    "owner": "Sarah Chen",
+    "team": "Payments Engineering",
+    "department": "FinTech",
+    "environment": "production",
+    "region": "us-east-1",
+    "aws_account_id": "112233445566",
+    "status": "active",
+    "monthly_spend": 47820.00,
+    "resource_count": 6
+  },
+  {
+    "service_name": "user-analytics",
+    "description": "User behavior analytics, reporting dashboards, and ML feature pipelines",
+    "owner": "Marcus Rivera",
+    "team": "Data Platform",
+    "department": "Analytics",
+    "environment": "production",
+    "region": "us-west-2",
+    "aws_account_id": "223344556677",
+    "status": "active",
+    "monthly_spend": 31450.00,
+    "resource_count": 5
+  },
+  {
+    "service_name": "content-delivery",
+    "description": "Media asset storage, processing, and CDN origin serving",
+    "owner": "Priya Patel",
+    "team": "Media Infrastructure",
+    "department": "Content",
+    "environment": "production",
+    "region": "us-east-1",
+    "aws_account_id": "334455667788",
+    "status": "active",
+    "monthly_spend": 22680.00,
+    "resource_count": 5
+  },
+  {
+    "service_name": "internal-tools",
+    "description": "Internal dashboards, admin portals, and developer utilities",
+    "owner": "Jake Thompson",
+    "team": "Platform Engineering",
+    "department": "Engineering",
+    "environment": "staging",
+    "region": "us-east-1",
+    "aws_account_id": "445566778899",
+    "status": "active",
+    "monthly_spend": 8940.00,
+    "resource_count": 4
+  }
+]
